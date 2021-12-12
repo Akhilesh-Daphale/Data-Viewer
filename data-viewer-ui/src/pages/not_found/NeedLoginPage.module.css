@@ -1,0 +1,10 @@
+.content {
+  width: 30rem;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.content h3 {
+  color: #476072;
+  text-align: center;
+}

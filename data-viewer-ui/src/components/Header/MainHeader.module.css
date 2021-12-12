@@ -1,0 +1,28 @@
+.header {
+	width: 100%;
+	height: 5rem;
+	background-color: #548CA8;
+	padding: 1% 2%;
+}
+
+.header h1 {
+	color: #EEEEEE;
+	float: left;
+}
+
+.header button {
+	float: right;
+	width: 100px;
+	height: 35px;
+	font-size: 1rem;
+	margin: 5px;
+	background-color: #334257;
+	color: #EEEEEE;
+	border: none;
+	border-radius: 25px;
+}
+
+.header button:hover {
+	background-color: #EEEEEE;
+	color: #334257;
+}
